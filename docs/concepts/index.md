@@ -1,3 +1,4 @@
-# Concepts
+# uindex
 
-This section defines the vocabulary used across ICE Studio.
+> Canonical ICE documentation node.
+> Content coming next.

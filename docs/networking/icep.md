@@ -1,3 +1,0 @@
-# ICEP
-
-Cognitive communication protocol.

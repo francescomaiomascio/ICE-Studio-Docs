@@ -1,3 +1,0 @@
-# Milestones
-
-Tracked progress markers.
